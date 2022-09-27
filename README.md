@@ -53,7 +53,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ahmedtom/Tom-Music.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasa786u/eetom)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -77,7 +77,7 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [Tom](https://github.com/tom011500976/Tom-musicly.git) ``Dev``
+- [Tom](https://github.com/sasa786u/eetom.git) ``Dev``
 ### Developer & Source 🎑
 <a href="https://t.me/Tom_01157"><img src="https://img.shields.io/badge/To communicate-with the developer-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Tom01255"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 ></a>
