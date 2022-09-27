@@ -12,7 +12,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/Tom01255",
-    "repository": "https://github.com/ahmedtom/Tom-Music",
+    "repository": "https://github.com/sasa786u/eetom.git",
     "success_url": "https://t.me/Tom01255",
     "env": {
      "API_ID": {
